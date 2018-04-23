@@ -4,7 +4,7 @@
 }
 
 .aside {
-	
+
 	width: 400px;
 	height:693px;
 	padding-left: 0px;
@@ -47,21 +47,19 @@
 
 }
 .main{
+	padding-top: 40px;
+	display: flex;
 	background-color: grey;
 	width: 970px;
 	padding-left: 6px;
 	overflow: auto;
 }
 
-.a{
-	display: flex;
-}
-.b{
-	display: flex;
-}
+
 .box{
+
 	margin:5px;
-	width: 300px;
+	width: 450px;
 	height: 500px;
 	border: 3px solid black;
 	background-color: white;
@@ -69,9 +67,8 @@
 }
 
 .box img{
-	margin-left: 30px;
+	margin-left: 80px;
 	margin-top: 10px;
-	border-radius: 50%;
 	height:250px;
 
 
